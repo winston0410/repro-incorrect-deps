@@ -1,5 +1,6 @@
 {
 	"imports": {
+		"@project/": "./",
 		"https://cdn.skypack.dev/sinon@v14.0.0": "https://esm.sh/v94/sinon@14.0.0/es2022/sinon.js?target=deno"
 	}
 }
