@@ -1,0 +1,5 @@
+{
+	"imports": {
+		"https://cdn.skypack.dev/sinon@v14.0.0": "https://esm.sh/sinon@v14.0.0?target=deno"
+	}
+}
