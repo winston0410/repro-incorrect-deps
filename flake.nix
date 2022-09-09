@@ -28,7 +28,7 @@
             src = ./.;
             denoFlags = ["--allow-net" "--allow-env" "--allow-read" "--import-map=./import_map.json"];
             lockfile = ./lock.json;
-            entrypoint = ./index.ts;
+            entrypoint = ./src/index.ts;
           };
       in {
         # nix build .#<appName>
