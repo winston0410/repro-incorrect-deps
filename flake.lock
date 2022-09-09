@@ -8,11 +8,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1662734195,
-        "narHash": "sha256-zWicMhRsv77phcWx3sUSFd4CBvcgChDmlZW2XAr1PKA=",
+        "lastModified": 1662750401,
+        "narHash": "sha256-P82KyZVr/hnBUcNOTNVeWV73FnXjMTjo9emF5rjiG2Y=",
         "owner": "SnO2WMaN",
         "repo": "deno2nix",
-        "rev": "638631c842367864564b0cace8cc574c420ae51a",
+        "rev": "a2092563c48cb71adc397f496f05049d4f20647a",
         "type": "github"
       },
       "original": {
